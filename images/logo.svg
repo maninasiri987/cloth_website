@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- Decorative element -->
+  <path d="M10 30 Q20 10 30 30 Q40 50 50 30" stroke="#533422" stroke-width="2" fill="none"/>
+  <!-- Text -->
+  <text x="60" y="38" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#533422">پوشاک آرا</text>
+</svg>
